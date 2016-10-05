@@ -1,0 +1,36 @@
+Numbers of Donation.
+15
+Donation.
+45
+Donation.
+767
+Donation.
+35
+Donation.
+86
+Donation.
+24
+Donation.
+56
+Donation.
+335
+Donation.
+753
+Donation.
+866
+Donation.
+334
+Donation.
+86
+Donation.
+343
+Donation.
+6
+Donation.
+454
+Donation.
+76
+The donations, sorted in ascending order are: 
+6 24 35 45 56 76 86 86 334 335 343 454 753 767 866 
+The donations, in their original order are: 
+45 767 35 86 24 56 335 753 866 334 86 343 6 454 76 
